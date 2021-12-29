@@ -1,0 +1,4 @@
+---
+- name: working with ansible
+  hosts: all
+  tasks: 
